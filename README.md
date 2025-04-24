@@ -4,4 +4,4 @@
 
 # Numeriacl Simultaion
 
-![DSN Schematic](Phantom_results.JPEG)
+![Simulation_result](Simulation_result.jpg.JPEG)
