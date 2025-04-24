@@ -4,4 +4,4 @@
 
 # Numeriacl Simultaion
 
-![Simulation_result](Simulation_result.jpg.JPEG)
+![Simulation_result](Simulation_result.jpg.jpg)
