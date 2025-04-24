@@ -15,6 +15,8 @@ The experimental dataset for running the code can be downloaded from the link be
 
 # Numerical Simulation
 
+**To verify the space-time inverse-scattering of translation-based motion through simulation, please follow the steps below.**
+
 1. Please download the Recon_corefunction folder, which contains the core functions required to run the reconstruction code.
 
 2. The script Main_simulation.m is used to run the simulation. Make sure to place this script in the same directory as the Recon_corefunction folder. Once everything is set up, you can run the script to reproduce the simulation results shown below.
@@ -32,6 +34,8 @@ The experimental dataset for running the code can be downloaded from the link be
 
 
 # Experiment: Microsphere and Scattering phantom
+
+**To verify the space-time inverse-scattering of translation-based motion using a microsphere and scattering phantom, please follow the steps below.**
 
 1. Please download the Recon_corefunction folder, which contains the core functions required to run the reconstruction code.
 
