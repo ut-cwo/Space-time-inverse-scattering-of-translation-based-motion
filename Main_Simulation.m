@@ -5,6 +5,10 @@
 % Waller, "High-resolution 3D refractive index microscopy of multiple-
 % scattering samples from intensity images," Optica 6, 1211-1219 (2019) 
 %
+% Reference for translation-based MSBP:
+% Kim, Jeongsoo, and Shwetadwip Chowdhury. "Space-time inverse-scattering 
+% of translation-based motion." arXiv preprint arXiv:2412.09403 (2024).
+%
 % Acknowledgements:
 % This MSBP demonstration utilizes regularization using the 3D total 
 % variation (TV) proximal operator. We gratefully acknowledge the work done 
