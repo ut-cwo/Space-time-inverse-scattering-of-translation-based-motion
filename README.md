@@ -24,7 +24,7 @@ The experimental dataset for running the code can be downloaded from the link be
 3. Since the code contains comments explaining each section, it is recommended to execute the code step by step and read through the related comments when running the code for the first time.
 
 <p align="center">
-<img src="Simulation_result.jpg" width="700"/>
+<img src="ImagerFolder/Simulation_result.jpg" width="700"/>
   
 </p>
 
