@@ -24,7 +24,7 @@ The experimental dataset for running the code can be downloaded from the link be
 3. Since the code contains comments explaining each section, it is recommended to execute the code step by step and read through the related comments when running the code for the first time.
 
 <p align="center">
-<img src="ImagerFolder/Simulation_result.jpg" width="700"/>
+<img src="ImageFolder/Simulation_result.jpg" width="700"/>
   
 </p>
 
@@ -46,7 +46,7 @@ The experimental dataset for running the code can be downloaded from the link be
 4. Since the code contains comments explaining each section, it is recommended to execute the code step by step and read through the related comments when running the code for the first time.
 
 <p align="center">
-<img src="Microsphere_result.jpg" width="700"/>
+<img src="ImageFolder/Microsphere_result.jpg" width="700"/>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ The experimental dataset for running the code can be downloaded from the link be
 </p>
 
 <p align="center">
-<img src="Phantom_result.jpg" width="700"/>
+<img src="ImageFolder/Phantom_result.jpg" width="700"/>
   
 </p>
 <p align="center">
