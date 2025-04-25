@@ -54,9 +54,9 @@ The experimental dataset for running the code can be downloaded from the link be
 </p>
 
 <p align="center">
-<img src="ImageFolder/Phantom_result.jpg" width="700"/>
-  
+<img src="ImageFolder/Phantom_result.jpg" width="500"/>
 </p>
+
 <p align="center">
 <strong> Figure3: </strong> Experimental results using scattering phantom
 </p>
