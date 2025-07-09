@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB simulation and reconstruction code for space-time inverse scattering with translation-based motion, as used in the following publication:
 
-**Kim, Jeongsoo, and Shwetadwip Chowdhury. "Space-time inverse-scattering of translation-based motion." arXiv preprint arXiv:2412.09403 (2024).**
+**Kim, Jeongsoo, and Shwetadwip Chowdhury. "Space-time inverse-scattering of translation-based motion." Optica 12.5 (2025): 643-653.**
 
 **Abstract**:
 In optical diffraction tomography (ODT), a sample's 3D refractive-index (RI) is often reconstructed after illuminating it from multiple angles, with the assumption that the sample remains static throughout data collection. When the sample undergoes dynamic motion during this data-collection process, significant artifacts and distortions compromise the fidelity of the reconstructed images. In this study, we develop a space-time inverse-scattering technique for ODT that compensates for the translational motion of multiple-scattering samples during data collection. Our approach involves formulating a joint optimization problem to simultaneously estimate a scattering sample's translational position at each measurement and its motion-corrected 3D RI distribution. Experimental results demonstrate the technique's effectiveness, yielding reconstructions with reduced artifacts, enhanced spatial resolution, and improved quantitative accuracy for samples undergoing continuous translational motion during imaging.
