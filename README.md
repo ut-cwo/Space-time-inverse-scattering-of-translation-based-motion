@@ -29,7 +29,7 @@ The experimental dataset for running the code can be downloaded from the link be
 </p>
 
 <p align="center">
-<strong> Figure1: </strong> Numerical simulation results 
+<strong> Figure 1: </strong> Numerical simulation results 
 </p>
 
 
@@ -50,7 +50,7 @@ The experimental dataset for running the code can be downloaded from the link be
 </p>
 
 <p align="center">
-<strong> Figure2: </strong> Experimental results using microsphere 
+<strong> Figure 2: </strong> Experimental results using microsphere 
 </p>
 
 <p align="center">
@@ -58,5 +58,5 @@ The experimental dataset for running the code can be downloaded from the link be
 </p>
 
 <p align="center">
-<strong> Figure3: </strong> Experimental results using scattering phantom
+<strong> Figure 3: </strong> Experimental results using scattering phantom
 </p>
